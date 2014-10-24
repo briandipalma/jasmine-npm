@@ -16,7 +16,7 @@
   "dependencies": {
     "es6-promise": "^2.0.0",
     "glob": "^3.2.11",
-    "jasmine-core": "~2.0.1"
+    "jasmine-core": "git://github.com/briandipalma/jasmine#bf59ef73396220c0f"
   },
   "bin": "./bin/jasmine.js",
   "main": "./lib/jasmine.js",
